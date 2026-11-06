@@ -1,0 +1,12 @@
+@page { size: A4; margin: 16mm 15mm; }
+body { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 9.6pt; line-height: 1.38; color:#1b1f24; max-width:none; margin:0; padding:0; }
+header#title-block-header { border-bottom: 3px solid #0f766e; margin-bottom: 10px; padding-bottom:6px; }
+h1.title { font-size: 19pt; margin:0; color:#0f3d3a; }
+p.subtitle { font-size: 10.5pt; margin:2px 0 0; color:#0f766e; }
+h1 { font-size: 13.5pt; color:#0f3d3a; border-bottom:1px solid #cbd5e1; padding-bottom:2px; margin:14px 0 6px; }
+h2 { font-size: 11pt; color:#0f766e; margin:10px 0 4px; }
+table { border-collapse: collapse; width:100%; margin:6px 0 8px; font-size: 8.3pt; page-break-inside: avoid; }
+th, td { border:1px solid #cbd5e1; padding:3px 5px; vertical-align: top; text-align:left; }
+th { background:#e6f4f1; }
+p, ul { margin: 4px 0; } li { margin: 1px 0; }
+code { font-size: 8.5pt; }
